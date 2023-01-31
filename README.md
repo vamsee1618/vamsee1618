@@ -1,6 +1,6 @@
 ### Welcome to the Problem Solver profile 😄
 #### Oh no! That's not actual my name (although it's more apt)
-### But really, this is Vamsee Narahari
+### But really, this is Vamsee
 A quick link to connect with me 📫: https://www.linkedin.com/in/vamsee-narahari/
 
 #### Professional Bio 👨‍💼: 
