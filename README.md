@@ -8,9 +8,9 @@ Data Science and Analytics professional with expertise in Natural Language Proce
 
 #### Repos:
 ##### Public Repos:
-- Statistical Analysis & Machine Learning in Python:https://github.com/vamsee1618/machine_learning_python
-- Statistical Analysis in R:
-- Web Scraping in LinkedIn and other Websites for Personal Projects:https://github.com/vamsee1618/webscraping
+- Statistical Analysis & Machine Learning in Python: https://github.com/vamsee1618/machine_learning_python
+- Statistical Analysis in R: https://github.com/vamsee1618/machine_learning_in_r
+- Web Scraping in LinkedIn and other Websites for Personal Projects: https://github.com/vamsee1618/webscraping
 ##### Private Repos: 
 - LinkedIn Web scraping & Analysis: For Graduate Student Analyst position
 - Yocket Web scraping & Analysis: For Graduate Student Analyst position
