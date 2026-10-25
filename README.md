@@ -1,8 +1,8 @@
-### Welcome to the Problem Solver profile 😄
-A quick link to connect with me 📫: https://www.linkedin.com/in/vamsee-narahari/
+### Learning to build
 
-#### Experience ⛑:
-- Data (Product and Growth) at Geomagical Labs
+https://www.linkedin.com/in/vamsee-narahari/
+
+
 
 
 
